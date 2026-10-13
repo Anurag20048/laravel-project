@@ -1,0 +1,2 @@
+# Do not commit local log files or environment-specific files.
+*.log
